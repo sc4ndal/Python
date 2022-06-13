@@ -7,3 +7,9 @@ def count(num):
 
 # count(10)
 count(20)
+print("""
+\    /
+ )  ( ')
+(  /  )
+ \(__)|
+""")
